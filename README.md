@@ -1,16 +1,9 @@
 # chess
 ## Description
 i will make a .md file for every hour posting all the chess games i played in that hour. at the end i will make a html website and write down verything thing i did wreog and how i could of gone better. i will do this until my chess.com rating is 900. currently i am rated 864
-</br>
+<br/>
 ## Day 1 
-<!DOCTYPE html>
-<html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>road to 900</title>
-</head>
 
 <body>
   <h1> Hour 1</h1>
@@ -57,6 +50,8 @@ i will make a .md file for every hour posting all the chess games i played in th
   Opponent's Rating: 900
   <br/>
   Feedback: HOW COULD YOU MISS THAT TACTIC?!?!?!</p>
+  <br/>
+  
 </body>
 
 </html>
