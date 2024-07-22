@@ -1,6 +1,6 @@
 Check out this #chess game: sahil_dasari vs 
 <br/>
-Sahil : Lost
+Sahil : 
 <br/>
 My Rating : 871
 <br/>
@@ -12,7 +12,7 @@ Feedback:
 
 Check out this #chess game: sahil_dasari vs
 <br/>
-Sahil: Win
+Sahil: 
 <br/>
 My Rating: 873
 <br/>
@@ -34,7 +34,7 @@ Feedback:
 <br/>
 Check out this #chess game: sahil_dasari vs
 <br/>
-Sahil: Lost
+Sahil: 
 <br/>
 My Rating: 865
 <br/>
